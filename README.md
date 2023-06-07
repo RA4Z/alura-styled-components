@@ -1,0 +1,1 @@
+Projeto criado no Curso da Alura para aprendizado em Styled Components
